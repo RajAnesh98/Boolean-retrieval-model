@@ -1,0 +1,12 @@
+friend 
+soldier 
+soldier OR friend 
+soldier AND friend 
+water 
+travel 
+travel AND water
+king 
+queen
+king AND queen 
+king OR queen
+heard noise /1
